@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdabdullah323&label=Profile%20views&color=0e75b6&style=flat" alt="mdabdullah323" /> </p>
 
-- 🔭 I’m currently working on **Data Analyticks and Data scientist and Machine Lraning*
+- 🔭 I’m currently working on **Data Analyticks and Data scientist and Machine Lraning**
 
 - 🌱 I’m currently learning **Data scientist and Machine Lraning**
 
 - 👯 I’m looking to collaborate on **Data Analyticks and Data scientist and Machine Lraning**
 
-- 🤝 I’m looking for help with **Data Analyticks and Data scientist and Machine Lraning*
+- 🤝 I’m looking for help with **Data Analyticks and Data scientist and Machine Lraning**
 
 - 💬 Ask me about **Anythink**
 
